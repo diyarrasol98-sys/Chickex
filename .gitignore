@@ -1,0 +1,10 @@
+# runtime / generated
+chickex.db
+chickex.db-wal
+chickex.db-shm
+*.db
+*.db-wal
+*.db-shm
+node_modules/
+*.log
+.DS_Store
